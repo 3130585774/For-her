@@ -1,5 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
 
-*{align-content: center;
+#test
+{
+	align-content: center;
+}
+body {
+  background-color: lightblue;
+}
+.center {
+  color: white;
+  text-align: center;
+}
+#gougu {
+	color: #EEA6F3;
+text-align: center;
 }
