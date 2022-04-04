@@ -1,9 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
-
-#test
-{
-	align-content: center;
+#test {
+  align-content: center;
 }
 body {
   background-color: lightblue;
@@ -13,6 +11,6 @@ body {
   text-align: center;
 }
 #gougu {
-	color: #EEA6F3;
-text-align: center;
+  color: #EEA6F3;
+  text-align: center;
 }
